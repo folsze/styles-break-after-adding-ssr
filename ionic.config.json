@@ -1,0 +1,7 @@
+{
+  "name": "split-build",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
